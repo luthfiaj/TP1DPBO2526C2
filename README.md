@@ -616,15 +616,11 @@ Pilih menu:
 
 Menampilkan seluruh pilihan fitur yang tersedia dalam program.
 
-![Menu Utama](Dokumentasi/Java/Menu.png)
-
 ---
 
 ## 5.2 Tambah Data Pegawai
 
 User dapat memasukkan ID, nama, jabatan, tugas, gaji, dan shift pegawai.
-
-![Tambah Data](Dokumentasi/Java/Tambah.png)
 
 ---
 
@@ -632,15 +628,11 @@ User dapat memasukkan ID, nama, jabatan, tugas, gaji, dan shift pegawai.
 
 Menampilkan seluruh data pegawai yang tersimpan dalam array.
 
-![Lihat Semua](Dokumentasi/Java/LihatSemua.png)
-
 ---
 
 ## 5.4 Detail Pegawai
 
 User memasukkan ID untuk melihat informasi lengkap seorang pegawai.
-
-![Detail Pegawai](Dokumentasi/Java/Detail.png)
 
 ---
 
@@ -648,15 +640,11 @@ User memasukkan ID untuk melihat informasi lengkap seorang pegawai.
 
 User dapat mencari pegawai berdasarkan nama.
 
-![Cari Pegawai](Dokumentasi/Java/Cari.png)
-
 ---
 
 ## 5.6 Ubah Data Pegawai
 
 User memilih ID pegawai kemudian memilih atribut yang ingin diubah.
-
-![Ubah Data](Dokumentasi/Java/Ubah.png)
 
 ---
 
@@ -664,23 +652,17 @@ User memilih ID pegawai kemudian memilih atribut yang ingin diubah.
 
 Program meminta konfirmasi sebelum data pegawai dihapus.
 
-![Hapus Data](Dokumentasi/Java/Hapus.png)
-
 ---
 
 ## 5.8 Daftar Jabatan
 
 Menampilkan jabatan yang tersedia pada sistem.
 
-![Daftar Jabatan](Dokumentasi/Java/Jabatan.png)
-
 ---
 
 ## 5.9 Daftar Shift
 
 Menampilkan pembagian waktu kerja pegawai.
-
-![Daftar Shift](Dokumentasi/Java/Shift.png)
 
 ---
 
